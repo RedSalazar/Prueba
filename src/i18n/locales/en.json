@@ -1,11 +1,11 @@
 {
     "Sensor off or out of range": "Sensor apagado o fuera de rango",
     "Excessive noise": "Ruido excesivo",
-    "Waveform": "",
-    "Speed": "Velocidad",
+    "Waveform": "Waveform",
+    "Speed": "Velocidaaaaad",
     "Proactive job": "Trabajo proactivo",
     "MCA": "MCA",
-    "Battery off": "",
+    "Battery off": "Battery off",
     "Acquisition timeout": "",
     "Zones": "",
     "Received sensor status": "",
@@ -18,7 +18,6 @@
     "Fault": "",
     "Expertise": "",
     "Acquisition received": "",
-	"Speed": "Velocidaaaaad",
     "Product leak": "",
     "Velocity": "",
     "Visual Inspection": "",
@@ -57,6 +56,5 @@
     "Restart route": "",
     "Login": "",
     "Do you want to shutdown?": "",
-	"Sensor": "This is Sensor",
-	"Sensor": "This is Sensoooooor"
+    "Sensor": "This is Sensoooooor"
 }
